@@ -1,0 +1,24 @@
+@media (width: 667px) and (orientation: landscape) {
+  .iphone678-landscape {
+    margin-top: 6rem !important;
+  }
+}
+
+@media (width: 736px) and (orientation: landscape) {
+  .iphone678plus-landscape {
+    margin-top: 5rem !important;
+  }
+}
+
+@media (width: 734px) and (orientation: landscape) {
+  .iphonex-landscape {
+    margin-top: 4rem !important;
+  }
+}
+
+@media (width: 375px) and (orientation: portrait) {
+  .portrait {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }
+}
