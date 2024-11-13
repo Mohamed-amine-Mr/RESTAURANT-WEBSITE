@@ -1,4 +1,4 @@
-import "./reservation.css";
+import "./Reservation.css";
 
 const Reservation = ({ bookingLink }) => {
   return (
