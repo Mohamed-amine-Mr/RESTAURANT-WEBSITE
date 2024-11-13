@@ -1,3 +1,5 @@
+import "./reservation.css";
+
 const Reservation = ({ bookingLink }) => {
   return (
     <div className="bg-gray-100 py-20 px-4 sm:px-6 lg:px-8 text-center">
